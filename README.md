@@ -56,5 +56,6 @@ Website Developer | IT Consultant | Cybersecurity Awareness Advocate
 [GitHub Profile](https://github.com/chrizfasa424)
 
 ---
-
+ **Like this project?** Give it a star on [GitHub](https://github.com/chrizfasa424/PHP-Phishing-Detector) and share with others!
+---
 > Made with love for open-source and global security awareness
